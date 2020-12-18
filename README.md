@@ -1,0 +1,2 @@
+# NNForTelecommunicationsNetwork
+Neural network for telecommunications network
